@@ -1,2 +1,2 @@
 # taskast
-I am tired of going back and forth between absolutely terrible productivity and work tracking apps. So I am just going to make my own that I like. 
+I am tired of going back and forth between terrible productivity and work tracking apps. So I am just going to make my own. This is going to be open source, its going to be free, and just great for people who hate all of the fucking complexity and useless features that exist in work tracking apps nowadays. Notion is the only company that has been close to making something that I like and that is simple. But its still just too much. Simplicity is key. 
